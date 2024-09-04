@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎉 Welcome to my profile.<br>💼 I’m currently working on SBI-Claims-LTC-HTC.<br>💻 MERN Stack Developer<br>⭐ 2 Years of Experience<br><br><br>For acquiring for any ZingHR Frontend Project please contact Hrushikesh Jadhav.
+🎉 Welcome to my profile.<br>💼 I’m currently working on SBI-Claims-LTC-HTC.<br>💻 MERN Stack Developer<br>⭐ 2 Years of Experience<br><br><br>For acquiring me for any ZingHR Frontend Project please contact Hrushikesh Jadhav.
 
 
 ## 🌐 Socials:
